@@ -8,7 +8,6 @@ Hybrid profile: renewable energy startup + data engineering training.
 - 💬 Ask me about **Python, SQL, XGBoost, RAG, Docker, React, NestJS**
 - 📫 Reach me at [divito.ay@gmail.com](mailto:divito.ay@gmail.com)
 - 💻 [My Portfolio](https://dva-aymeric.vercel.app/)
-- 🔮 [Oracle des Loyers](https://github.com/DVAymeric/oracle-loyers) — real estate price prediction + AI chatbot
 
 ---
 
