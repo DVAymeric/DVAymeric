@@ -19,16 +19,6 @@ Hybrid profile: renewable energy startup + data engineering training.
 
 ---
 
-### 🎓 Education
-
-![Wild Code School](https://img.shields.io/badge/Wild_Code_School-Bachelor_Data_Analyst-8A2BE2?style=for-the-badge)
-![Epitech](https://img.shields.io/badge/Web@cademie_Epitech-Bac+2_Dev_Web-0055A4?style=for-the-badge)
-![Databricks](https://img.shields.io/badge/Databricks-Enterprise_AI_%26_Data_Engineering-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-Fundamentals_Certified-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-Astronomer_Academy-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
----
-
 ### 🛠️ Languages & Tools
 
 **Data & AI**
